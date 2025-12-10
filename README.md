@@ -70,7 +70,6 @@ You can directly set the checkbox state by setting the [TreeViewNode.IsChecked](
                     <Grid>
                         <CheckBox x:Name="CheckBox" FocusVisualStyle="{x:Null}"
                                             IsChecked="{Binding IsChecked, Mode=TwoWay}" Content="{Binding Content}"/>
-
                     </Grid>
                 </DataTemplate>
             </syncfusion:SfTreeView.ItemTemplate>
@@ -78,3 +77,5 @@ You can directly set the checkbox state by setting the [TreeViewNode.IsChecked](
     </Grid>
 </Window>
 ```
+
+![Showing TreeView with Checkboxes](TreeViewWithCheckBox.png)
