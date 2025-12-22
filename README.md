@@ -1,4 +1,4 @@
-# How to work with checkboxes in unbound mode in WPF TreeView
+# How to work with checkboxes in unbound mode in WPF TreeView?
 
 This example describes how to work with check boxes in unbound mode in [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview) (SfTreeView). 
 
